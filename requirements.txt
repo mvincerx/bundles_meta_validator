@@ -1,2 +1,2 @@
-urllib3==1.22
-certifi==2018.10.15
+certifi==2018.1.18
+urllib3==1.25
